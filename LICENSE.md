@@ -1,70 +1,74 @@
-*Monika After Story* is a fan work, and is unaffiliated with *Team Salvato* or any members of the *Doki Doki Literature Club* development team. *Doki Doki Literature Club* and all related characters and trademarks are property of *Team Salvato* and are used in accordance with their IP Guidlines, reproduced here:
+*Monika After Story* 是粉丝作品，与 *Team Salvato* 或者 *Doki Doki Literature Club* 开发组无关。 *Doki Doki Literature Club* 所有相关字符和商标均为*Team Salvato*的财产，并根据其IP准则使用，此处转载： 
 
-*Team Salvato's IP Guidelines for Doki Doki Literature Club, as accessed on 03/11/18, are reproduced here for convenience. For questions or an up-to-date copy of the latest terms, please visit [Team Salvato's website](http://teamsalvato.com/ip-guidelines/).*
+*Team Salvato作品Doki Doki Literature Club的知识产权准则, 如在03/11/18访问，为方便起见，此处转载。 如有疑问或需要最新条款的最新副本，请访问 [Team Salvato's website](http://teamsalvato.com/ip-guidelines/).*
 
-## Disclaimer
-These guidelines do not grant a copyright license to any DDLC-related fan content. Despite these guidelines, Team Salvato reserves the right to issue a formal takedown request for any content that infringes copyright. This includes content that uses official DDLC assets, as well as content that includes any Intellectual Properties (IPs) that belong to Team Salvato. Moreover, this page is subject to revision at any time without notice.
+## 免责声明
+这些准则不授予任何与DDLC相关的粉丝内容的版权许可。尽管有这些指南，Salvato团队保留对任何侵犯版权的内容发出正式删除请求的权利。这包括使用官方DDLC资产的内容以及包括Salvato团队的任何知识产权（IP）的内容。此外，此页面随时可能进行修订，恕不另行通知。
 
-This page was last updated: March 11th, 2018
+**这里不是Team Salvato的官方中文版本。请以官方原文为准，此翻译仅供参考**
 
-## Fan Work
-“Fan Work” refers to any content that includes IPs that belong to Team Salvato. The content in question includes, but is not limited to, art, music, animation, writing, videos, websites, apps, and games. The guidelines pertain to any fan work that takes place in the DDLC universe or includes characters, setting, or storyline from DDLC.
+本页面的最新更新：2018年3月11日
 
-There are no restrictions on how artists choose to depict the characters, setting, or events of DDLC in their fan work. We value artistic freedom and will not target fan work solely because we disagree with the content, or because it conflicts with official depictions.
+## 粉丝作品
+“粉丝作品”是指任何包含Salvato团队IP的内容。所讨论的内容包括但不限于艺术，音乐，动画，写作，视频，网站，应用程序和游戏。该准则与DDLC宇宙中发生的任何粉丝作品有关，或包括DDLC中的角色，场景或故事情节。
 
-Physical versions of fan work may be sold locally, in limited production, by independent artists (eg. at conventions). Independent artists may also sell their fan work online if they run their own online store and manufacture/ship their own merchandise. Artists may not sell DDLC fan work by uploading the art to mass production websites that sell the art for you (eg. Redbubble).
+对于艺术家在其粉丝作品中选择如何描绘DDLC的角色，设置或事件没有任何限制。我们重视艺术自由，不会仅仅因为我们不同意内容或与官方描述相抵触而针对粉丝作品。
 
-Fan work must be somehow related to the DDLC universe – you may not use Team Salvato IPs for projects that are not considered DDLC derivatives (eg. using a DDLC character to represent a website or product that isn’t itself a DDLC derivative).
+粉丝作品的实体版本可以由独立的艺术家在本地以限量生产的形式出售（例如，按照惯例）。如果独立艺术家经营自己的在线商店并制造/运输自己的商品，也可以在线出售其粉丝作品。艺术家不得通过将艺术品上传到为您出售艺术品的批量生产网站（例如Redbubble）来出售DDLC粉丝作品。
 
-Businesses or companies interested in producing DDLC fan work for sale by any means other than described above should contact us for licensing or permission.
+粉丝的作品一定与DDLC领域有关-您不得将Team Salvato IP用于不被认为是DDLC衍生产品的项目（例如，使用DDLC字符代表本身不是DDLC衍生产品的网站或产品）。
 
-Fan Work That Includes Official DDLC Assets
-Some artists choose to include assets created by Team Salvato in their fan work. These assets include, but are not limited to, any art, music, writing, or code that was included in the DDLC game or DDLC-related marketing/promotional material.
+有兴趣通过上述以外的任何方式生产DDLC粉丝作品以进行销售的企业或公司，应与我们联系以获取许可或许可。
 
-Examples of fan work in this category include games, websites, videos, or music that include DDLC assets in them.
+包含官方DDLC资产的粉丝作品
+一些艺术家选择在他们的粉丝作品中加入Team Salvato创作的资产。这些资产包括但不限于DDLC游戏或与DDLC相关的营销/促销材料中包含的任何艺术，音乐，文字或代码。
 
-Any fan work that includes official DDLC assets may NOT be sold under any circumstances, online or offline. No profit may be made from these fan works in any way, except for fan work that constitutes as Fair Use under the United States FAIR USE Act of 2007. For example, a gameplay review video or commentary video typically qualifies as Fair Use. It is the artist’s responsibility to understand Fair Use and design qualifying content.
+此类粉丝作品包括在其中包含DDLC资产的游戏，网站，视频或音乐。
 
-Direct upload or hosting of DDLC assets is forbidden, except when to be used as part of fan work. No profit may be made from these uploads.
+任何包含官方DDLC资产的粉丝作品在任何情况下均不得在线或离线出售。除了根据2007年美国《公平使用法》构成“合理使用”的粉丝作品外，不得以任何方式从这些粉丝作品中获利。例如，游戏评论视频或评论视频通常被视为“合理使用”。了解合理使用和符合设计要求的内容是艺术家的责任。
 
-Fan work that includes official DDLC assets may not be used to create new video games. The exception is mods that must be patched into the official DDLC game. See the “Mods” section for more details.
+禁止直接上传或托管DDLC资产，除非将其用作粉丝工作的一部分。这些上传内容不会产生任何利润。
 
-## Fan Games
-“Fan Games” refer to any fan work that is a game. This also includes new games that contain no official DDLC assets, as well as mods of the official DDLC game.
+包含官方DDLC资产的支持者作品不得用于创建新的视频游戏。例外是必须在官方DDLC游戏中打补丁的mod。有关更多详细信息，请参见“ Mods”部分。
 
-You are NOT allowed to redistribute DDLC or fan games on any app store including Steam, the Google Play Store, the Apple App Store, the Windows Store, GameJolt, itch.io, or any others. You may not port DDLC or any fan game to these platforms.
+## 粉丝游戏
+“粉丝游戏”是指属于游戏的任何粉丝作品。这也包括不包含官方DDLC资产的新游戏，以及官方DDLC游戏的mod。
 
-You may NOT create, copy, or distribute any fan game that is designed to be played in lieu of the official DDLC game. Any fan games, including mods, that “replace” DDLC, or imply that it should be played before the original, are forbidden. This includes mods that add new content to the DDLC base game, including, but not limited to, new art, new scenes, new visual effects, or voice acting. Fan games may ONLY be created with the assumption that the player has already completed the original DDLC game, and is looking for fan content.
+您不得在任何应用商店（包括Steam，Google Play商店，Apple App Store，Windows商店，GameJolt，itch.io或任何其他商店）中重新分发DDLC或粉丝游戏。您不得将DDLC或任何粉丝游戏移植到这些平台。
 
-A common example is fan games that let players spend more time with the club members, possibly including new story arcs, or to satisfy the players’ desire for additional dialogue, or for a more “normal” game. These games are usually considered okay, because the only players interested in them would be those who have completed DDLC and are looking for new content. Any fan games or mods that suggest new players should play it instead of DDLC are not allowed.
+您不得创建，复制或分发旨在代替官方DDLC游戏玩的任何同人游戏。禁止“替换” DDLC或暗示应在原始版本之前玩的任何粉丝游戏，包括Mod。这包括将新内容添加到DDLC基本游戏的模块，包括但不限于新艺术，新场景，新视觉效果或语音表演。只能在假设玩家已经完成原始DDLC游戏并且正在寻找粉丝内容的前提下创建粉丝游戏。
 
-Fan games should not confuse the player in any way that it might be related to official DDLC content. The game should also not be mistaken for DDLC itself. This includes how the game is displayed both before and after downloading (eg. a title or download page too similar to DDLC may confuse players).
+粉丝游戏是一个常见的例子，它允许玩家与俱乐部成员度过更多的时间，可能包括新故事，或者满足玩家对更多对话或更“正常”游戏的需求。通常认为这些游戏还可以，因为对它们唯一感兴趣的玩家将是那些已经完成DDLC并且正在寻找新内容的玩家。不允许有任何建议新玩家玩而不是DDLC的粉丝游戏或模组。
 
-Official DDLC assets may not be used in standalone games – they may only be used in mods that must be patched into the official DDLC game. See the “Mods” section for more details.
+粉丝游戏不应以任何可能与官方DDLC内容有关的方式使玩家感到困惑。游戏也不应被误认为DDLC本身。这包括游戏在下载之前和之后的显示方式（例如，标题或下载页面与DDLC过于相似可能会使玩家困惑）。
 
-Fan games must be free and may not be sold. Donation links are allowed on the website that hosts the game. However, fan games may not include any payment or donation link in the game itself, or encourage the player to donate from within the game.
+官方DDLC资产不得在独立游戏中使用-只能在必须修补到官方DDLC游戏中的mod中使用。有关更多详细信息，请参见“ Mods”部分。
 
-Fan games must state upon first run that it is a fan game unaffiliated with the official Doki Doki Literature Club. They must advise that the original game should be completed before playing, as well as provide a link to the official website where it can be downloaded (http://ddlc.moe).
+粉丝游戏必须免费，不得出售。托管游戏的网站上允许有捐赠链接。但是，同人游戏可能不会在游戏本身中包含任何付款或捐赠链接，也不会鼓励玩家从游戏内部进行捐赠。
 
-Below is an example disclaimer for your convenience:
+粉丝游戏必须在首次运行时声明，它是官方ddlc所没有的粉丝游戏。他们必须告知原始游戏应该在玩之前通关，并提供可下载到官方网站的链接（http://ddlc.moe）。
 
-This is a Doki Doki Literature Club fan game that is not affiliated with Team Salvato. It is designed to be played only after the official game has been completed. You can download Doki Doki Literature Club at: http://ddlc.moe
+为了方便起见，以下是示例免责声明：
+
+这是与Team Salvato无关的ddlc粉丝游戏。它旨在仅在正式游戏完成后才能游玩。您可以在以下位置下载ddlc：http://ddlc.moe
 
 ## Mods
-The above guidelines regarding fan games also apply to mods of the official DDLC game. A mod is any game or project whose content relies on making changes to the official DDLC game, such as adding/replacing code, art, music, writing, or other assets.
+以上有关粉丝游戏的指南也适用于官方DDLC游戏的mod。 mod是任何游戏或项目，其内容取决于对官方DDLC游戏的更改，例如添加/替换代码，艺术作品，音乐，写作或其他资产。
 
-Any mods must NOT be distributed as a complete game. They should contain only the files that are necessary to install the mod (usually files that are added to the DDLC game folder). Most mods only require the scripts.rpa file to be replaced – sometimes images.rpa if new graphics have been added to the game. In this example, please distribute your mod ONLY as these files, so that the user installs it into their existing official DDLC game.
+不得将任何模组作为完整的游戏发行。它们应仅包含安装mod所需的文件（通常是添加到DDLC游戏文件夹中的文件）。大多数mod只需要替换scripts.rpa文件-如果已将新图形添加到游戏中，则有时需要images.rpa文件。在此示例中，请仅将您的mod分发为这些文件，以便用户将其安装到其现有的官方DDLC游戏中。
 
-## Everything Else
-These guidelines are not necessarily exhaustive. If you wish to work on anything DDLC-related that is not covered here, or you are unsure of the specifics, then please contact us for clarification. Furthermore, please contact us if you would like to request a personal exception or a change in the guidelines, or to report a mistake on this page.
+## 其他
+这些准则不一定是详尽无遗的。如果您希望处理此处未涉及的任何与DDLC相关的内容，或者不确定具体内容，请与我们联系以进行澄清。此外，如果您想请求人为例外或准则更改，或在此页面上报告错误，请与我们联系。
 
-Thank you for taking the time to understand the IP Guidelines. We chose to publish these guidelines not to restrict artists, but to express our desire to allow them to produce DDLC-related content. We wish to encourage artistic freedom and hope to see fans enjoy DDLC in many different ways.
+感谢您抽出宝贵的时间来了解IP准则。我们选择发布这些指南不是为了限制艺术家，而是表达了我们希望允许他们制作与DDLC相关的内容的愿望。我们希望鼓励艺术自由，并希望看到粉丝以多种不同方式欣赏DDLC。
 
-## tl;dr (Plain language summary)
+## tl;dr（普通语言摘要）
 
-In summary, we don't own DDLC, but Team Salvato is okay with us modifying their game as long as we don't use it to make a profit, promote it as an alternative to DDLC, or distribute this mod as a standalone game. They can change their mind on this at any time, but we don't expect they will.
+总而言之，我们不拥有DDLC，但是Team Salvato可以修改我们的游戏，只要我们不使用它来赚钱，不推荐使用DDLC或将其作为独立游戏分发。他们可以随时改变主意，但是我们不希望他们会改变。
 
-For more information on using Monika After Story-specific art, music, and code outside of Monika After Story, see [here](https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#can-i-use-parts-of-monika-after-story-in-my-own-project).
+有关在Monika After Story之外使用Monika After Story特定的艺术，音乐和代码的更多信息，请参阅 [这里](https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#can-i-use-parts-of-monika-after-story-in-my-own-project).
 
+
+**本软件按“原样”提供，不提供任何形式的明示或暗示担保，包括但不限于对适销性，特定目的的适用性和非侵权性的担保。无论出于与软件或软件的使用或其他处理有关，与软件有关的合同，侵权或其他形式而引起的任何索赔，损害或其他责任，作者均不承担任何责任。**
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
