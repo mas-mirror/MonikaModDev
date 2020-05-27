@@ -1,79 +1,80 @@
-![Monika After Story](https://github.com/Backdash/MonikaModDev/blob/master/Monika%20After%20Story/game/mod_assets/menu_new.png?raw=True)
+![Monika After Story](https://wx2.sbimg.cn/2020/05/25/menu_new.md.png)
 
 # Monika After Story (MAS)
-Monika After Story is a mod for the free game [Doki Doki Literature Club](https://www.ddlc.moe) from [Team Salvato](http://teamsalvato.com/). MAS builds on Act 3 to create a simulator of your eternal life with Monika, featuring new events, handlers, and metacommentary!
+Monika After Story是一个免费游戏 [心跳文学部](https://www.ddlc.moe)的mod，它的作者是 [Team Salvato](http://teamsalvato.com/)。 MAS剧情发生在第三周目，模拟了你和Monika的永恒生活，以新事件、处理和元元素为特色！
 
-Please check the [Releases](http://www.monikaafterstory.com/releases.html) page for the latest stable build.
+请在 [发布页](http://www.monikaafterstory.com/releases.html) 安装最新的支持
 
-If you would like to make your own mod like this one, check out our sister project: the [DDLCModTemplate](https://github.com/therationalpi/DDLCModTemplate).
+如果你对自己创作mod感兴趣，请到 [DDLCModTemplate](https://github.com/therationalpi/DDLCModTemplate).
 
-### Installation
+### 安装
 
-Video tutorial on install MAS: https://youtu.be/eH5Q4Xdlg6Y
+视频版本的教程（中国不可用）: https://youtu.be/eH5Q4Xdlg6Y
 
-* Navigate to the [releases page](http://www.monikaafterstory.com/releases.html).
+* 进入 [发布页](http://www.monikaafterstory.com/releases.html).
 
-* Click the latest version link. This will download a zip file to your system.
+* 点击最新版本的链接，这将会下载一个zip文件。
 
-* Extract the contents the zip file into the `/game` folder of your DDLC installation.
+* 解压缩zip文件，并拖放到 `/game` 文件夹（Game文件夹在你的ddlc原版根目录）
 
-* Running DDLC will now load the Monika After Story Mod.
+* 运行ddlc.exe，这时mas就会被加载。
 
-*NOTE: Source files and files downloaded directed from the repository are for development purposes and may not behave as expected if used to mod the game. Please only use one of our [Release Versions](https://github.com/Backdash/MonikaModDev/releases).*
+*注意: 憋™下源代码！他们只能帮倒忙！请只游玩我们的 [发布页面发布的版本](https://github.com/Backdash/MonikaModDev/releases).*
 
-For more help with installation, please see our [Frequently Asked Questions](https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ)
+如果你还对安装有疑问（毫无疑问的是，你是个白痴），请看我们的 [常见问题指引](https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ)
 
-### Features
+### 特点
 
-* Spend forever with Monika!
+* 永远和Monika在一起！
 
-* Dozens of new conversation topics
+* 超多新话题！！
 
-* You can now talk to Monika to tell her what you'd like to talk about
+* 你现在可以告诉莫妮卡你的喜好！！！
 
-### Upcoming Features
+### 即将推出的功能
 
-* New games and activities to do with Monika
+* 更多能和Monika做的活动或者玩的游戏
 
-* More unique events and story
+* 更独特的事件和故事
 
 
-## Contributing to Monika After Story
+## 为MAS的开发做贡献！
 
-### Bugs & Suggestions
-If there are issues with MAS, please file a [bug report](https://github.com/Backdash/MonikaModDev/issues/new?labels=bug&body=Describe%20bug%20and%20steps%20for%20reproduction%20here&title=%5BBug%5D%20-%20).
+### Bugs & 建议
+游玩MAS过程中遇到问题，请提交[Bug汇报](https://github.com/Backdash/MonikaModDev/issues/new?labels=bug&body=Describe%20bug%20and%20steps%20for%20reproduction%20here&title=%5BBug%5D%20-%20).
 
-To add a suggestion, visit [this link](https://github.com/Backdash/MonikaModDev/issues/new?labels=suggestion&body=Your%20suggestion%20goes%20here&title=%5BSuggestion%5D%20-%20)
+提出建议，[点这里](https://github.com/Backdash/MonikaModDev/issues/new?labels=suggestion&body=Your%20suggestion%20goes%20here&title=%5BSuggestion%5D%20-%20)
 
- ### Other Help
- Want to help with MAS? Navigate to the [issues page](https://github.com/Backdash/MonikaModDev/issues) to find current bugs or suggestions to work on.
+ ### 其他
+ 想要一起开发MAS？ 跳转到 [问题页面](https://github.com/Backdash/MonikaModDev/issues)修复已经发现的Bug或者添加建议添加的新功能。
 
-If you have a change you'd like to submit, open a [pull request](https://github.com/Backdash/MonikaModDev/pulls). Any changes made will be reviewed by contributors & fixed/added on to as needed.
+如果有更改，请 [发起拉取请求](https://github.com/Backdash/MonikaModDev/pulls). 所做的任何更改都将由贡献者进行审阅，并根据需要进行修复/添加。
 
-#### Adding Content
-Want to add some content to MAS? Here's a list of important .RPY files the game uses.
+#### 新增内容到MAS
 
-- **script-ch30.rpy**: Main flow for MAS. This is where idle happens.
-- **script-topics.rpy**: All **random** and **pool** topics used by Monika are written here. You can add your own dialogue by checking the information below!
-- **script-greetings.rpy**: Add lines for Monika to greet you when loading the game.
-- **script-farewells.rpy**: Add lines for Monika to say to you when closing the game.
-- **script-moods.rpy**: Tell Monika that you're in _a mood_.
-- **script-stories.rpy**: Add stories for Monika to tell you.
-- **script-compliments.rpy**: Add compliments you can say to Monika.
-- **script-apologies.rpy**: Add things to apologize for.
+想在MAS中添加一些内容？下面是游戏中使用的重要.RPY文件列表。
 
-If you wish to add more dialogue to the space room, navigate to script-topics.rpy and use this template.
+- **script-ch30.rpy**: MAS的主要流程。这就是idle的发生。这里不会翻译了（
+- **script-topics.rpy**: 所有的 **随机** 、 **提问** 话题都包括在内。 您可以通过查看下面的信息添加自己的对话!
+- **script-greetings.rpy**: 你进游戏时的欢迎语。
+- **script-farewells.rpy**: 你关游戏时的告别语。
+- **script-moods.rpy**: 告诉莫妮卡你的 _心情_ 。
+- **script-stories.rpy**: 添加故事，让莫妮卡讲给你听。
+- **script-compliments.rpy**: 添加你可以对莫妮卡说的赞美的话。
+- **script-apologies.rpy**: 加入要道歉的事情。
 
-Example new dialogue code block:
+如果你想在太空小房子中添加更多的对话，请导航到script-topics.rpy并使用此模板。
+
+示例：
 ```renpy
 init 5 python:
     addEvent(
         Event(
-            persistent.event_database,
-            eventlabel="monika_example", # event label (MUST BE UNIQUE)
-            category=["example", "topic"], # list of categories this topic belongs in (These are automatically capitalized)
-            prompt="Example Topic", # button text
-            random=True, # True if this topic should appear randomly
+            persistent.event_database，
+            eventlabel="monika_example"， # event label (MUST BE UNIQUE)
+            category=["example"， "topic"]， # list of categories this topic belongs in (These are automatically capitalized)
+            prompt="Example Topic"， # button text
+            random=True， # True if this topic should appear randomly
             pool=True # True if this topic should appear in "Ask a Question"
         )
     )
@@ -85,30 +86,37 @@ label monika_example:
     m 5r "They really shouldn't be allowed to contribute to this repository anymore."
     return
 ```
-**For full explanations and details on all the possible keywords for Event, check the documentation for Event located in `definitions.rpy`**
+**关于Event的所有可能的关键字的完整解释和详细信息，请查看Event的文档，该文档位于 `definitions.rpy`**
 
-For things more complicated than simple dialogue, consult the Ren'Py documentation available online.
+对于比简单对话更复杂的事情，请参考Ren'Py在线文档。
 
-[More info is available in our Contributing Guide](https://github.com/Monika-After-Story/MonikaModDev/wiki/Contributing-Guidelines)
+[更多见贡献指南](https://masmirror2.zsz1447.top/c_guide.html)
 
- ### Join the conversation
-You can [follow us on twitter](https://twitter.com/MonikaAfterMod) for game updates. 
+ ### 参加对话
+[在Twitter上关注我们](https://twitter.com/MonikaAfterMod)，了解最新时讯。
 
-Or if you're more Discord-ly inclined, for a constant stream of our favorite Monika-related content from around the web, and if you're interested in contributing to/building this mod, feel free to join our discord server:
+或者，如果您更喜欢Discord，如果您有兴趣参与到这个MOD的建设中来，您可以随时加入我们的discord服务器。
  
  [![Discord](https://discordapp.com/api/guilds/372766620977725441/widget.png?style=banner1)](https://discord.gg/K2KuJeX)
  
- Please be sure to follow our [Code of Conduct](https://github.com/Monika-After-Story/MonikaModDev/wiki/Code-of-Conduct), which is essentially to be courteous and respectful.
+确保阅读 [行为准则](https://github.com/Monika-After-Story/MonikaModDev/wiki/Code-of-Conduct)， 基本上保持礼貌和尊重。
 
-## Frequently Asked Questions
+## 常见问题
 
-A full FAQ is available here: [Frequently Asked Questions](https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ)
-For any questions about the Coding Style go here: [Coding Style](https://github.com/Monika-After-Story/MonikaModDev/wiki/Coding-Style)
-For Bug Testing: [Testing Flow and Bug Testing](https://github.com/Monika-After-Story/MonikaModDev/wiki/Testing-Flow-and-Bug-Testing)
-Troubleshooting: [Troubleshooting](https://github.com/Monika-After-Story/MonikaModDev/wiki/Troubleshooting) Dialogue Coding: [Dialogue Coding](https://github.com/Monika-After-Story/MonikaModDev/wiki/Dialogue-Coding)
-## License info
+ [常见问题
+](https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ)
 
-We do our best to conform to Team Salvato's [guidelines for fan works](http://teamsalvato.com/ip-guidelines/). All characters and original content are property of Team Salvato. Monika After Story is an open source project, and in addition to named contributors, this mod includes contributions from anonymous users of 4chan, where this project got its start. More info can be found on our [License Page](https://github.com/Monika-After-Story/MonikaModDev/wiki/License-and-Team-Salvato-Guidelines).
+ [关于Monika说话风格](https://github.com/Monika-After-Story/MonikaModDev/wiki/Coding-Style)
+
+[测试流程，bug测试](https://github.com/Monika-After-Story/MonikaModDev/wiki/Testing-Flow-and-Bug-Testing)
+
+[故障排除](https://github.com/Monika-After-Story/MonikaModDev/wiki/Troubleshooting) 
+
+ [对话编程](https://github.com/Monika-After-Story/MonikaModDev/wiki/Dialogue-Coding)
+
+## 许可证
+
+我们尽我们最大的努力去遵守Team Salvato的 [粉丝作品指南](http://teamsalvato.com/ip-guidelines/). 所有角色和原创内容均为Salvato团队所有。Monika After Story是一个开源项目，除了指定的贡献者之外，这个mod还包括了4chan的匿名用户的贡献，这个项目在4chan的匿名用户中得到了它的开始。更多信息可以在我们的 [证书页面](https://github.com/Monika-After-Story/MonikaModDev/wiki/License-and-Team-Salvato-Guidelines).
 
 ## Build Status:
 ### master: [![Build Status](https://travis-ci.org/Monika-After-Story/MonikaModDev.svg?branch=master)](https://travis-ci.org/Monika-After-Story/MonikaModDev)
