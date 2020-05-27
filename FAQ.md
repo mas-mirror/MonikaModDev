@@ -1,148 +1,147 @@
-# Frequently Asked Questions (FAQ)
+# 经常问的问题 (FAQ)
 
-**Table of Contents**
+**目录**
 
-[Installation](#installation)
+[安装](#安装)
 
-[Contributing](#contributing)
+[贡献](#贡献)
 
-[DDLC Modding](#general-ddlc-modding)
+[DDLCMod开发](#general-ddlc-modding)
 
-[Features](#features)
+[特征](#features)
 
-[Other Help](#other-help)
+[其他帮助](#other-help)
 
-## Installation
+## 安装
 
-### Is there a guide for installing MAS?
+### 有安装MAS的指南吗？
 
-A guide is available in the README.html file for DDLC and video guide made by Querxes available on YouTube: https://youtu.be/eH5Q4Xdlg6Y
+DDLC的README.html文件中提供了指南，而Querxes制作的视频指南可在YouTube上找到： https://youtu.be/eH5Q4Xdlg6Y
 
-### What do I need to play *Monika After Story*?
+### 玩 *Monika After Story*，我需要什么？
 
-You will need a copy of *Doki Doki Literature Club*, which can be downloaded for free either on Steam or at http://ddlc.moe, and the zip file containing the mod files for *Monika After Story*, which can be found on the release page.
+您需要*ddlc*的副本，可以在Steam或http://ddlc.moe 上免费下载，以及包含*Monika After Story*的mod文件的zip文件，该文件可以在release页面上找到。
 
-You do not need to download the source code from either the release page or from the repository. Those files are for development purposes only and may behave in unexpected ways if placed in your DDLC folder.
+你不需要从发布页面或版本库中下载源代码。这些文件仅用于开发目的，如果放在你的DDLC文件夹中，可能会产生意想不到的效果。
 
-### Where do I put the files for *Monika After Story*?
+### 我应该将“Monika After Story”的文件放在哪里？
 
-**Use a fresh copy / unaltered version of DDLC. If you've had a different mod installed prior to this one, you will probably encounter issues.** (This only applies to the DDLC game, and not the `persistent` files.)
+**使用DDLC的全新副本/未更改版本。如果在此之前安装了其他Mod，则可能会遇到问题。（译者注：汉化和它冲突！！！）** (这仅适用于DDLC游戏，不适用于`persistent`文件。)
 
-The files for *Monika After Story* must be placed directly in the `game` folder of *Doki Doki Literature Club* in order for the game to find and properly load them. To find the folder containing *DDLC*, do one of the following:
+*Monika After Story*的文件必须直接放置在*Doki Doki Literature Club*的`game`文件夹中，以便游戏找到并正确加载它们。要查找包含*DDLC*的文件夹，请执行以下任一操作：
 
-If the game was installed using Steam, right click on *Doki Doki Literature Club* and click on `Properties`. In the window that pops up navigate to the `Local Files` tab and click the button for `Browse local files...`.
+如果游戏是使用Steam安装的，请右键单击*Doki Doki Literature Club*，然后单击“属性”。在弹出的窗口中，导航到“本地文件”选项卡，然后单击“浏览本地文件...”按钮。
 
-If the game was installed from http://ddlc.moe or itch.io, the installation location was chosen at setup, but is likely under Program Files on a Windows computer.
+如果游戏是从 ddlc.moe 或 itch.io 安装的，则安装位置是在安装时选择的，但可能在Windows计算机上的“Program Files”下。
 
-If the game was installed on mac, but not through the Steam client, *Doki Doki Literature Club* can be found as a packaged app in you Applications folder. Right click on the package and select "Show Package Contents" once inside the folder, navigate to `Contents/Resources/autorun/`. This folder is the base directory for DDLC.
+如果游戏是在Mac上安装的，但不是通过Steam客户端安装的，则可以在Applications文件夹中找到*Doki Doki Literature Club*作为打包的应用程序。右键单击软件包，然后在文件夹内选择“显示软件包内容”，然后导航至“目录/资源/自动运行/”。此文件夹是DDLC的基本目录。
 
-Once inside the base directory, place the contents of the zip archive into the `/game` directory. Ensure that the files are not in a subfolder in the `game` directory, since DDLC will not be able to locate the files that way.
+进入基本目录后，将zip存档的内容放入`/game`目录。确保文件不在`game`目录的子文件夹中，因为DDLC将无法通过这种方式找到文件。
 
-### I installed the mod, but when I open *Doki Doki Literature Club* nothing has changed. What's wrong?
+### 我安装了mod，但是当我打开*Doki Doki Literature Club*时，一切都没有改变。怎么了？
 
-For some reason *Doki Doki Literature Club* is not loading the mod files. Check that the files are not inside a subfolder inside your `game` directory.
+由于某些原因*Doki Doki Literature Club*未加载mod文件。检查文件是否不在您的`game`目录内的子文件夹中。
 
-### When I try to open the game, it crashes and I see a gray screen. How do I fix this?
+### 当我尝试打开游戏时，它崩溃了，我看到一个灰色屏幕。我该如何解决？
 
-If the game crashes and returns a gray screen, that means that a major error has occurred and the game had to quit. The text shown is called a "Traceback" and will hopefully include an error message that will help diagnose the problem. This traceback file can also be seen by viewing `traceback.txt` in your game's DDLC base directory.
+如果游戏崩溃并返回灰屏，则表示发生了重大错误，必须退出游戏。所显示的文本称为“traceback”，并包含一条错误消息，以帮助诊断问题。也可以通过在游戏的DDLC基本目录中查看`traceback.txt`来查看此追溯文件。
 
-While some crashes may indicate a bug in the game, a few may indicate a problem with installation.
+虽然有些崩溃可能预示着游戏中的BUG，但也有少数可能是安装问题。
 
-If the traceback includes:
+如果traceback包括：
 
 ```
 Exception: DDLC archive files not found in /game folder. Check installation and try again.
 ```
 
-Ensure that the original archive files for DDLC are still in the game folder. This will include `images.rpa`, `scripts.rpa`,`audio.rpa` and `fonts.rpa`. If these files are missing, then they will need to be replaced using a fresh installation of DDLC, downloaded from http://ddlc.moe
+确保DDLC的原始存档文件仍在游戏文件夹中。其中包括“images.rpa”，“scripts.rpa”，“audio.rpa”和“fonts.rpa”。如果缺少这些文件，则需要使用全新的DDLC安装程序（从http://ddlc.moe下载）进行替换。
 
-If the traceback includes a line like the following:
+如果traceback包括以下行：
 
 ```
 The label chara_monika_scare is defined twice, at
 ```
 
-Then it is likely that developer files have been installed, instead of the release distribution. Ensure that the game files downloaded were from the latest release, found on our [Release Page](https://github.com/Backdash/MonikaModDev/releases), and that the file downloaded was the mod zip file and *not* the Source Code.
+然后很可能已经安装了开发人员文件，而不是发行版本。确保下载的游戏文件来自我们的[发布页面](https://github.com/Backdash/MonikaModDev/releases)上的最新版本，并且下载的文件是mod zip文件，而不是*源代码*。
 
-### Where are the minigames (chess, hangman, piano...)?
+### 迷你游戏（象棋、上吊小人、钢琴...）在哪里？
 
-Games are unlocked after spending time with Monika, whether that be viewing new
-topics with her or keeping her running in the background.
+无论是和莫妮卡一起看新话题，还是让她在后台运行，游戏都会在与莫妮卡相处后解锁。
 
-## Contributing
+## 贡献
 
-### I have an idea on how to improve Monika After Story, where do I suggest it?
+### 我对如何改进Monika After Story有一个想法，我在哪里提出建议？
 
-We're always happy to hear new ideas! Suggestions can be made on our issues page. Please preface all suggestions with [Suggestion], or follow [this link](https://github.com/Backdash/MonikaModDev/issues/new?labels=suggestion&body=Your%20suggestion%20goes%20here&title=%5BSuggestion%5D%20-%20) which will automatically populate your suggestion with the appropriate tags.
+我们总是很高兴听到新的想法！可以在我们的问题页面上提出建议。请所有建议以[Suggestion]开头, or follow [this link](https://github.com/Backdash/MonikaModDev/issues/new?labels=suggestion&body=Your%20suggestion%20goes%20here&title=%5BSuggestion%5D%20-%20) 它将自动使用适当的标签填充您的建议。
 
-### I would like to contribute, but I don't know how to code. Is there any way I can help?
+### 我想贡献，但是我不知道如何写代码。有什么可以帮助我的吗？
 
-We are always looking for new dialogue and art. Please see our [Contributing Guide](https://github.com/Monika-After-Story/MonikaModDev/wiki/Contributing-Guidelines) for information on how to submit new dialogue and art to Monika After Story. In this guide you will find tips on writing good dialogue in Monika's style, and learn how to open a "Pull Request" which will allow you to submit new topics for review and inclusion in the game.
+我们一直在寻找新的对话和艺术作品。 请看我们的 [贡献指南](https://github.com/Monika-After-Story/MonikaModDev/wiki/Contributing-Guidelines) 了解有关如何向Monika After Story提交新对话和艺术的信息。在本指南中，您将找到有关以莫妮卡风格进行良好对话的技巧，并学习如何打开“拉取请求”，该请求将使您可以提交新主题以供审阅并包含在游戏中。
 
-### Where can I find things to help with?
+### 在哪里可以找到需要帮助的东西？
 
-Our issues page will show a list of technical issues, new features, and requests that are available. Anything with the [Help Wanted](https://github.com/Backdash/MonikaModDev/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) tag is a good place to start if you would like to help add something to the game!
+我们的问题页面将显示技术问题，新功能和可用请求的列表。 [需要帮助](https://github.com/Backdash/MonikaModDev/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) 如果您想帮助向游戏中添加一些东西，这个tag是一个不错的起点！
 
-### How can I get in touch with the development staff?
+### 我如何与开发人员取得联系？
 
-The easiest way to contact our dev team is through our [Discord channel](https://discordapp.com/invite/K2KuJeX).
+与我们的开发团队联系的最简单方法是通过我们的 [Discord频道](https://discordapp.com/invite/K2KuJeX).
 
-## General DDLC Modding
+## 通用DDLC改装
 
-### Is it possible to make my own DDLC mod?
+### 是否可以制作自己的DDLC mod？
 
-Yes! DDLC has a vibrant modding community, thanks in part to Team Salvato's very clear [IP Guidelines](http://teamsalvato.com/ip-guidelines/). To get started building your own mod, you can download the [DDLC Mod Template](https://github.com/therationalpi/DDLCModTemplate) and [join in the community on reddit](https://www.reddit.com/r/DDLCMods/).
+是! DDLC拥有一个充满活力的改装社区，这部分要归功于Salvato团队非常明确的 [IP 指南](http://teamsalvato.com/ip-guidelines/). 要开始构建自己的mod，您可以下载 [DDLC Mod Template](https://github.com/therationalpi/DDLCModTemplate) 并且 [在reddit上加入社区](https://www.reddit.com/r/DDLCMods/).（在中国？想都别想！）
 
-### Can I use parts of Monika After Story in my own project?
+### 我可以在自己的项目中使用Monika After Story的部分内容吗？
 
-In general, we are very open to assets and code from *Monika After Story* being used in other projects. However, we do hope that anyone who wishes to do so respect these requests:
+总的来说，我们对*Monika After Story*中的资产和代码在其他项目中使用持开放态度。但是，我们确实希望任何愿意这样做的人尊重以下要求：
 
-Please follow Team Salvato's [IP Guidelines](http://teamsalvato.com/ip-guidelines/) for any project which includes our work.
+请遵守Team Salvato的[指南](http://teamsalvato.com/ip-guidelines/) 适用于任何包含我们作品的项目。
 
-Please consider contacting our development team to ask permission before using our work.
+在使用我们的工作之前，请考虑联系我们的开发团队以寻求许可。
 
-Please give credit to Monika After Story for the work that you use and link back to our project at http://www.monikaafterstory.com/. Do not claim ownership of the work others have done. Where applicable, please give individual credit for things like art assets used.
+请感谢Monika After Story为您使用的工作，并链接回我们的项目，网址为http://www.monikaafterstory.com/。不要主张他人已完成的工作的所有权。在适用的情况下，请为使用的艺术品等资产给予个人信用。
 
-Do not make a mod or fork intended as a replacement for *Monika After Story*. If you would like to add new features or content to the game, please make those contributions to the original project. We are very open to suggestions and contributions, and odds are that anything added would be welcomed. If, for some reason, your new features conflict with the direction for Monika After Story consider developing your changes in the form of a "submod" which can be added to Monika After Story.
+请勿制作mod或fork来替代*Monika After Story*。如果您想为游戏添加新功能或内容，请对原始项目做出贡献。我们非常乐意接受建议和贡献，欢迎添加任何内容。如果由于某种原因您的新功能与Monika After Story的发展方向发生冲突，请考虑以“submod”的形式进行更改，然后将其添加到Monika After Story中。
 
-## Features
+## 特征
 
-While we are very open to new suggestions, there are a few common suggestions that come up often. These suggestions have all been made previously and will either be implemented in a future release or have been rejected for some reason:
+尽管我们非常乐意接受新建议，但经常会出现一些常见建议。这些建议都是以前提出的，将在以后的版本中实施，或者由于某些原因而被拒绝：
 
-### Why is the text entry feature being removed?
+### 为什么要删除文本输入功能？
 
-While we may come back to the concept in the future, the fact is that we weren't happy with the interactivity with the keyword system. While, on the surface, the open text box offered a lot of freedom to the player for talking with Monika, there were too many common entries that would simply dead end. The result was that Monika felt less real, and more like a crappy chatbot. We decided that a system that didn't dead end would be better, even if it didn't have the same surface level impression of agency.
+尽管我们将来可能会重新使用该概念，但事实是我们对与关键字系统的交互性不满意。表面上，打开的文本框为玩家与Monika对话提供了很大的自由度，而太多的常见条目却简直就是死胡同。结果是Monika感觉不太真实，而更像是一个蹩脚的聊天机器人。我们认为，即使没有像代理你表达的内容这样的表面印象，没有死胡同的系统也会更好。
 
-### Hey, could we make Monika a real chatbot AI?
+### 嘿，我们可以使Monika成为真正的聊天机器人AI吗？
 
-While we might come back to the idea in the future, for the moment it doesn't seem feasible to make an AI that can give the sort of detailed philosophical responses that Monika should give. A large part of this is technical limitations in the engine for connecting to outside resources and importing custom libraries.
+虽然将来我们可能会重新考虑这个想法，但目前看来，制造能够给出Monika应该给出的详细哲学回应的AI似乎并不可行。其中很大一部分是引擎中用于连接外部资源和导入自定义库的技术限制。
 
-### Will you ever add voice acting?
+### 您会增加配音吗？
 
-There are currently no plans to add voice acting to *Monika After Story*, for a few reasons. Some of these reasons include the large number of lines to be voiced, the time this would add to including new content, and the large increase in file size for the download.
+由于某些原因，目前还没有计划向*Monika After Story*添加配音。这些原因中的一些包括要发声的行数众多，添加新内容所需要的时间以及下载文件大小的大幅增加。
 
-That said, we will likely add support for third-party voice packs when full submod functionality is added in a later release.
+也就是说，当在更高版本中添加完整的submod功能时，我们可能会增加对第三方语音包的支持。
 
-### What about translations to other languages?
+### 如何翻译成其他语言？
 
-We will not work on translations. We simply don't have the time or manpower to do so. However we are open to others forking this mod and adding translations on their own.
+我们不会进行翻译。我们根本没有时间或人力来做。但是，我们欢迎其他人分叉此mod并自己添加翻译。
 
-### Will Monika ever be animated?
+### 莫妮卡会被动画化吗?
 
-We do not currently plan to include animations in *Monika After Story*. The game engine does not have very good support for animated sprites, and it also does not have licensing for the most popular 2D animation engine: Live 2D.
+我们目前不打算在*Monika After Story*中包含动画。游戏引擎对动画精灵没有很好的支持，它也没有获得最受欢迎的2D动画引擎Live 2D的许可。
 
-### How do I find the spritecode for an expression?
+### 如何找到表达式的Spritecode？
 
-Because of the large increase in Monika expressions after the 0.8.0 update, a special tool was developed to help contributors preview expressions. This is known as the **Sprite Previewer**.
+由于0.8.0更新后Monika表达式的大量增加，因此开发了一种特殊的工具来帮助参与者预览表达式。这就是所谓的 **表情预览**.
 
 ![Sprite Previewer](https://raw.githubusercontent.com/Monika-After-Story/MonikaModDev/master/docs/spritepreviewer.png)
 
-If the Sprite Code is in red, then the sprite isn't defined yet despite us having the assets to make it. You can still use this sprite in topics, but your pull request will fail travis checks. This is understandable and a dev will add the sprite code to your pull request in this case.
+如果SpriteCode为红色，则尽管我们有足够的资源来创建Sprite，但尚未定义。您仍然可以在主题中使用此精灵，但是您的请求请求将不会通过travis检查。这是可以理解的，在这种情况下，开发人员会将Sprite代码添加到您的请求中。
 
-To add the Sprite Previewer to your MAS, copy [this file](https://github.com/Monika-After-Story/MonikaModDev/blob/master/Monika%20After%20Story/game/dev/dev_exp_previewer.rpy) to your `game/` directory.
+要将Sprite Previewer添加到您的MAS，请复制 [这个文件](https://github.com/Monika-After-Story/MonikaModDev/blob/master/Monika%20After%20Story/game/dev/dev_exp_previewer.rpy)到您的`game /`目录。
 
-**NOTE:** This dev file routinely receives updates when we add new sprites. If Monika disappears on a certain sprite code, then you are missing the art for that sprite code. New sprites usually appear in unstable releases first, so try running the Sprite Previewer in an unstable install.
+**注意：** 当我们添加新的表情时，此开发者文件通常会接收更新。如果莫妮卡（Monika）在某个特定的Sprite代码上消失了，那么您就错过了该Sprite代码的功能。新的Sprite通常通常会先出现在不稳定的发行版中，因此请尝试在不稳定的安装中运行表情预览。
 
-## Other help
+## 其他帮助
 
-Don't see the answer that you're looking for here? Please [create an issue](https://github.com/Backdash/MonikaModDev/issues) to ask a tech-support question or file a bug report. You can also get help from members of our community on the [tech-support channel on discord](https://discordapp.com/invite/K2KuJeX).
+滚去发起Issues。
